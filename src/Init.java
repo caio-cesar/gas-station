@@ -6,4 +6,7 @@ public class Init {
 		System.out.println("Oba");
 	}
 
+	public static void doThePrint() {
+		System.out.println("Doing the printing stuff");	
+	}
 }
