@@ -9,4 +9,8 @@ public class Init {
 	public static void doThePrint() {
 		System.out.println("Doing the printing stuff");	
 	}
+	
+	public static void doAnotherPrint() {
+		System.out.println("Doing the printing stuff");	
+	}
 }
