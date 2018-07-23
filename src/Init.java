@@ -26,4 +26,8 @@ public class Init {
 		}
 	}
 
+	public static void anotherMethod() {
+
+	}
+
 }
